@@ -1,7 +1,7 @@
 # StarWars blog database
 
 
-![Starwars Diagram](https://github.com/breatheco-de/exercise-starwars-data-modeling/blob/master/assets/diagrama.png?raw=true)
+![Starwars Diagram](https://github.com/breatheco-de/exercise-starwars-data-modeling/blob/master/assets/diagrama.PNG?raw=true)
 [Click to open diagram](https://app.quickdatabasediagrams.com/#/d/K3SpnS)
 
 ## 💻 Installation
